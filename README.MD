@@ -4,8 +4,8 @@
 
 This project is aimed at building a 3D asset store for the 3D Modeller community I'm part of. Our community is small, but we make high-quality content. The main goal of this project was to master HTML, Tailwind CSS while working on something that will be used in production. The site will be hosted very soon, and any 3D modelling artist can sell his 3D arts on the site. As i am a freelancer 3D Artist too, I am trying to fix issues 3D artists face with selling their 3D Models.
 
-![Home Page](Home_page.png)
-![Product Page](product_view.png)
+![Home Page](Home_page.jpg)
+![Product Page](product_view.jpg)
 
 ## Used Tools
 
