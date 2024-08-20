@@ -1,0 +1,28 @@
+# Django web framework
+Django>=4.2,<5.0
+
+# Gunicorn - WSGI HTTP server for UNIX to serve Django applications
+gunicorn>=20.1.0,<21.0
+
+# psycopg2 - PostgreSQL database adapter (commonly used with Django)
+psycopg2-binary>=2.9.6,<3.0
+
+# dj-database-url - Utility to configure database from URL in environment variable
+dj-database-url>=1.2.0,<2.0
+
+# django-environ - To manage environment variables in Django
+django-environ>=0.10,<1.0
+
+# Whitenoise - To serve static files on Azure
+whitenoise>=6.5.0,<7.0
+
+# Azure dependencies (optional, for additional Azure integrations)
+azure-storage-blob>=12.14.1,<13.0  # Azure Blob Storage, if you're using it
+azure-identity>=1.13.0,<2.0         # Azure Identity for authentication
+
+# Optional: If using any additional libraries or packages
+# requests - For making HTTP requests in Python
+requests>=2.31.0,<3.0
+
+# Pillow - For image processing
+Pillow>=9.5.0,<10.0
