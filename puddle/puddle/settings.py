@@ -21,6 +21,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-745w!hbg9l(m4#9nh4)%x-l3i_c@m8=k=t7a5chnzpjb9&gh*%'
+ALLOWED_HOSTS = ['https://3dmarket-enbshrggg4h2eacc.southindia-01.azurewebsites.net/]
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
